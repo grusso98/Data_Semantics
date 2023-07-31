@@ -1,3 +1,4 @@
+![alt text](https://github.com/grusso98/Data_Semantics/blob/main/img/DS-banner.png)
 ## Data Semantics 
 ### Authors:
   <div align="center">
